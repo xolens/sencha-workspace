@@ -1,0 +1,2 @@
+# sencha-workspace
+Sencha Workspace

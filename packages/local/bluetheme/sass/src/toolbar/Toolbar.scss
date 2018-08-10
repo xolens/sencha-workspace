@@ -1,0 +1,65 @@
+@include extjs-toolbar-ui( 
+	$ui: 'apptheme-menutoolbar-ui',
+	$background-color: #157fcc,
+	$background-gradient: 'matte',
+	
+    $vertical-spacing: $toolbar-vertical-spacing,
+    $horizontal-spacing: $toolbar-horizontal-spacing,
+
+    $border-color: $toolbar-border-color,
+    $border-width: $toolbar-border-width,
+    $border-style: $toolbar-border-style,
+
+    $spacer-width: $toolbar-spacer-width,
+    $separator-color: $toolbar-separator-color,
+    $separator-highlight-color: $toolbar-separator-highlight-color,
+    $separator-horizontal-margin: $toolbar-separator-horizontal-margin,
+    $separator-horizontal-height: $toolbar-separator-horizontal-height,
+    $separator-horizontal-border-style: $toolbar-separator-horizontal-border-style,
+    $separator-horizontal-border-width: $toolbar-separator-horizontal-border-width,
+    $separator-vertical-margin: $toolbar-separator-vertical-margin,
+    $separator-vertical-border-style: $toolbar-separator-vertical-border-style,
+    $separator-vertical-border-width: $toolbar-separator-vertical-border-width,
+
+    $text-font-family: 'Montserrat',
+    $text-font-size: $toolbar-text-font-size,
+    $text-font-weight: $toolbar-text-font-weight,
+    $text-color: $toolbar-text-color,
+    $text-line-height: $toolbar-text-line-height,
+    $text-padding: $toolbar-text-padding,
+
+    $scroller-width: $toolbar-scroller-width,
+    $scroller-height: $toolbar-scroller-height,
+    $scroller-vertical-width: $toolbar-scroller-vertical-width,
+    $scroller-vertical-height: $toolbar-scroller-vertical-height,
+    $scroller-border-color: $toolbar-scroller-border-color,
+    $scroller-border-width: $toolbar-scroller-border-width,
+    $scroller-vertical-border-color: $toolbar-scroller-vertical-border-color,
+    $scroller-vertical-border-width: $toolbar-scroller-vertical-border-width,
+    $scroller-top-margin: $toolbar-scroller-top-margin,
+    $scroller-right-margin: $toolbar-scroller-right-margin,
+    $scroller-bottom-margin: $toolbar-scroller-bottom-margin,
+    $scroller-left-margin: $toolbar-scroller-left-margin,
+    $scroller-cursor: $toolbar-scroller-cursor,
+    $scroller-cursor-disabled: $toolbar-scroller-cursor-disabled,
+    $scroller-opacity: $toolbar-scroller-opacity,
+    $scroller-opacity-over: $toolbar-scroller-opacity-over,
+    $scroller-opacity-pressed: $toolbar-scroller-opacity-pressed,
+    $scroller-opacity-disabled: $toolbar-scroller-opacity-disabled,
+    $scroller-glyph-color: $toolbar-scroller-glyph-color,
+    $scroller-top-glyph: $toolbar-scroller-top-glyph,
+    $scroller-right-glyph: $toolbar-scroller-right-glyph,
+    $scroller-bottom-glyph: $toolbar-scroller-bottom-glyph,
+    $scroller-left-glyph: $toolbar-scroller-left-glyph,
+
+    $tool-background-image: $toolbar-tool-background-image,
+    $tool-glyph-color: $toolbar-tool-glyph-color,
+    $menu-overflow-glyph-color: $toolbar-menu-overflow-glyph-color,
+    $menu-overflow-glyph: $toolbar-menu-overflow-glyph,
+	$classic-scrollers: $toolbar-classic-scrollers
+);
+
+
+
+
+

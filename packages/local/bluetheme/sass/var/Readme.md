@@ -1,3 +1,3 @@
-# blue-theme/sass/var
+# bluetheme/sass/var
 
 This folder contains variable declaration files named by their component class.

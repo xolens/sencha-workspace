@@ -2,7 +2,7 @@
     /**
      * The name of the package.
      */
-    "name": "blue-theme",
+    "name": "bluetheme",
 
     "sencha": {
         /**
@@ -17,7 +17,7 @@
           * As a general rule, all classes that belong to this package should be under this namespace
           * if multiple namespaces are part of this package, set this to "".
           */
-         "namespace": "Blue.theme",
+         "namespace": "bluetheme",
 
         /**
          * The package type.
@@ -115,15 +115,15 @@
         "sass" : {
             /**
              * The namespace to which this package's SASS corresponds. The default value of
-             * "Blue.theme" means that the files in ./sass/src (and ./sass/var) match classes in
-             * the Blue.theme" root namespace. In other words, "Blue.theme.panel.Panel" maps to
+             * "bluetheme" means that the files in ./sass/src (and ./sass/var) match classes in
+             * the bluetheme" root namespace. In other words, "bluetheme.panel.Panel" maps to
              * ./sass/src/panel/Panel.scss.
              *
              * To style classes from any namespace, set this to blank. If this is blank,
-             * then to style "Blue.theme.panel.Panel" you would put SASS in
-             * ./sass/src/Blue.theme/panel/Panel.scss.
+             * then to style "bluetheme.panel.Panel" you would put SASS in
+             * ./sass/src/bluetheme/panel/Panel.scss.
              */
-            "namespace": "Blue.theme",
+            "namespace": "bluetheme",
 
             /**
              * Comma-separated list of files or folders containing extra Sass. These
